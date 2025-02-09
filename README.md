@@ -8,10 +8,10 @@
 
 ## 📫 How to reach me
 - 🔗 [LinkedIn](https://www.linkedin.com/in/niccolo-erasmi-237390290)
-- 📘 [Facebook](https://www.facebook.com/yourprofile)
-- 📸 [Instagram](https://www.instagram.com/yourprofile)
-- 🎮 Discord: `YourDiscordUsername#1234`
-- 📧 your.email@example.com
+- 📘 [Facebook](https://www.facebook.com/niccolo.erasmi)
+- 📸 [Instagram](https://www.instagram.com/niccolo_erasmi)
+- 🎮 Discord: `gernot_99`
+- 📧 niccolo.erasmi@gmail.com
 
 <!--
 **Gerno666/Gerno666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
