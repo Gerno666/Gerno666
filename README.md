@@ -30,12 +30,12 @@
 ---
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Gerno666&show_icons=true&theme=radical)
 
 ---
 
 ## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=your_username&theme=radical&row=1&column=7)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Gerno666&theme=radical&row=1&column=7)
 
 ---
 
