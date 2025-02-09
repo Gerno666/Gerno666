@@ -13,6 +13,20 @@
 - 🎮 Discord: `gernot_99`
 - 📧 niccolo.erasmi@gmail.com
 
+## 🔧 Tech Stack
+![Assembly](https://img.shields.io/badge/-Assembly-333333?style=flat&logo=assembly)
+![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=MySQL&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3)
+![MATLAB](https://img.shields.io/badge/-MATLAB-333333?style=flat&logo=mathworks)
+![GCC](https://img.shields.io/badge/-GCC-00599C?style=flat&logo=gnu)
+
 <!--
 **Gerno666/Gerno666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
