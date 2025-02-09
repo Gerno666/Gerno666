@@ -27,6 +27,18 @@
 ![MATLAB](https://img.shields.io/badge/-MATLAB-333333?style=flat&logo=mathworks)
 ![GCC](https://img.shields.io/badge/-GCC-00599C?style=flat&logo=gnu)
 
+---
+
+## 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical)
+
+---
+
+## 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=your_username&theme=radical&row=1&column=7)
+
+---
+
 <!--
 **Gerno666/Gerno666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
